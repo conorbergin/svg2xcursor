@@ -1,0 +1,15 @@
+[package]
+name = "mouse_pointer"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+byteorder = "1.5.0"
+constcat = "0.5.0"
+image = "0.24.8"
+resvg = "0.39.0"
+thiserror = "1.0.57"
+xcursor = "0.3.5"
+
